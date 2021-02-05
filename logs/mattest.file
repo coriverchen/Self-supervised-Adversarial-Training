@@ -1,0 +1,10 @@
+nohup: ignoring input
+log_dir: ./runs/cifar_default_run
+Using a 32x32 encoder
+***** CHECKPOINTING ****************
+No checkpoint found. Starting fresh.
+************************************
+Traceback (most recent call last):
+  File "CIFAR_MAT_TEST.py", line 158, in <module>
+    params = ckpt['model']
+KeyError: 'model'
