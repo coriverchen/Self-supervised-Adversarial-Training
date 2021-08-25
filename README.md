@@ -2,7 +2,7 @@
 [SAT](https://arxiv.org/abs/1911.06470)
 
 ### Prepared Work
-Training a self-supervised model or download an pretrained self-supervised model. 
+Training a self-supervised model or download a pretrained self-supervised model. 
 
 ### Proposed method
 1. Obtain the pretrained self-supervised model
