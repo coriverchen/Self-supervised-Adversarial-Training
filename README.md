@@ -14,7 +14,7 @@ AMDIM is selected as the self-supervised model
 
 For detail of the implementation, please refer to the jupyter notebook 'CIFAR_SAT_AMDIM'
 
-```
+``` bibtex
 @inproceedings{chen2020self,
   title={Self-supervised adversarial training},
   author={Chen, Kejiang and Chen, Yuefeng and Zhou, Hang and Mao, Xiaofeng and Li, Yuhong and He, Yuan and Xue, Hui and Zhang, Weiming and Yu, Nenghai},
